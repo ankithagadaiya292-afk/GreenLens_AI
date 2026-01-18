@@ -6,5 +6,4 @@ Open in Google Colab
 Run all cells
 Update lifestyle_profile to test different inputs
 View total CO₂, score, issues, recommendations, and charts
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/EcoMind-AI/main/EcoMind_AI.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankithagadaiya292-afk/GreenLens_AI/blob/main/GreenLens_AI.ipynb)
