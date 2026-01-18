@@ -1,5 +1,5 @@
 # GreenLens_AI
-An AI project that evaluates daily lifestyle habits,estimates carbon footprint and provides actionable recommendations for sustainable living. It uses rule-based AI reasoning for explainable insights.
+An AI project that evaluates daily lifestyle habits,estimates carbon footprint and provides actionable recommendations for sustainable living. It uses rule based AI reasoning for explainable insights.
 
 Usage:
 Open in Google Colab
